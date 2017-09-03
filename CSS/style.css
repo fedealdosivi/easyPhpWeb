@@ -1,0 +1,21 @@
+.navbar-default{
+   background-color: black;
+   border-radius: 0px;
+   margin-bottom: 5px;
+   font-family: verdana;
+   min-height: 74px;
+   border-spacing: 1px;
+}
+
+.customnavbar ul li a{
+ color:#fff!important;
+ text-transform: uppercase;
+      hover{
+      background-color: #fff!important;
+      color: black!important;
+     }
+}
+
+body{
+  background-color: #fff;
+}   
